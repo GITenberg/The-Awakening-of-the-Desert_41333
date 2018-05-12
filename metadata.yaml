@@ -1,0 +1,29 @@
+_repo: The-Awakening-of-the-Desert_41333
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41333-h/images/coversmall.jpg
+creator:
+  author:
+    agent_name: Birge, Julius Charles
+    alias: Birge, Julius C.
+    birthdate: 1839
+    deathdate: 1923
+    gutenberg_agent_id: '41117'
+    url: http://www.gutenberg.org/2009/agents/41117
+description: ''
+gutenberg_issued: '2012-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41333'
+  lccn: '13000024'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F590.3'
+- !lcsh 'West (U.S.) -- Social life and customs'
+- !lcsh 'Frontier and pioneer life -- West (U.S.)'
+title: The Awakening of the Desert
+url: http://www.gutenberg.org/ebooks/41333
